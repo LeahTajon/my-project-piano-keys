@@ -1,2 +1,2 @@
-# my-project-piano-keys
-Codecademy JavaScript Project
+# Piano Keys
+## Codecademy JavaScript Project
